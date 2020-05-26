@@ -1,0 +1,8 @@
+#ignore `.idea`
+.idea/
+#ignore `include`
+include/
+#ignore `Lib`
+Lib/
+#ignore `Scripts`
+Scripts/
